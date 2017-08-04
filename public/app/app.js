@@ -1,0 +1,1 @@
+var app = angular.module('todoRecords', []).constant('API_URL', API_URL);
