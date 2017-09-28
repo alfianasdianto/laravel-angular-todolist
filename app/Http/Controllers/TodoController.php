@@ -13,6 +13,7 @@ class TodoController extends Controller
 {
     public function index()
     {
+        //index
     	return view('welcome');
     }
 
